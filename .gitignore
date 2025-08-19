@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore FFmpeg output
+backend/streams/
+
+# Ignore node_modules
+frontend/node_modules/
+
+# Ignore build files
+frontend/dist/
